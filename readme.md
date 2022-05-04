@@ -1,5 +1,3 @@
-# ![banner](banner.png)
-
 # browser
 
 Here are various Firefox themes I have created. Some are created by me, and some are modified versions of others. 
